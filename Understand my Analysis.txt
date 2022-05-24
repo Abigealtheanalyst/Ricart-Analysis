@@ -1,0 +1,32 @@
+			Important to note;
+
+- Ricat Management is a fictional company I made up.
+
+- The data set used are in two seperate excel file, they are in this repository. 
+
+			My Analysis;
+
+ - Generally, there are two genders in the organization. However, some employees
+   refused to disclose their gender, therefore I named them 'unspecified'.
+
+- I started with visualizing the gender distribution in the organization, distilled to regions and departments
+
+- I showed insights on ratings based on gender
+
+- Then I went on to analyse the company’s salary structure. Identify if there is a gender pay gap. 
+
+  Thereafter, I identified the department and regions that should be the focus of the company's management
+
+- I assumed a regulation made it mandatory for  manufacturing companies to pay employees a minimum of
+  $90,000, therefore;
+
+  I checked if  Ricart met this requirement. 
+
+- The I showed pay distribution of employees, grouped by a band of $10,000. For example: How many employees falls into a band of
+  $10,000 – $20,000, $20,000 – $30,000 etc. this was visualize by regions
+
+- I calculated the amount to be paid as bonus to individual employees using the percentatges provided per department
+
+- Also, amount to be paid to individual employees, salary inclusive of bonus
+
+- Total amount to be paid out per region and company-wide
