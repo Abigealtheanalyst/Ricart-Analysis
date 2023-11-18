@@ -7,7 +7,7 @@
 			My Analysis;
 
  - Generally, there are two genders in the organization. However, some employees
-   refused to disclose their gender, therefore I named them 'unspecified'.
+   did not disclose their gender, therefore I named them 'unspecified'.
 
 - I started with visualizing the gender distribution in the organization, distilled to regions and departments
 
@@ -22,7 +22,7 @@
 
   I checked if  Ricart met this requirement. 
 
-- The I showed pay distribution of employees, grouped by a band of $10,000. For example: How many employees falls into a band of
+- Furthermore, I showed pay distribution of employees, grouped by a band of $10,000. For example: How many employees falls into a band of
   $10,000 – $20,000, $20,000 – $30,000 etc. this was visualize by regions
 
 - I calculated the amount to be paid as bonus to individual employees using the percentatges provided per department
